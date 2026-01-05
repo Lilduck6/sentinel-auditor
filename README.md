@@ -14,7 +14,7 @@ Sentinel surveille la santé de vos serveurs Linux. Il vérifie le CPU, la RAM, 
 
 \## 🚀 Installation
 
-1\. `git clone https://github.com/TON\_USER/sentinel-auditor.git`
+1\. `git clone https://github.com/Lilduck6/sentinel-auditor.git`
 
 2\. `chmod +x sentinel.sh`
 
